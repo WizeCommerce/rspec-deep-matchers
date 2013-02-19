@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.authors     = ["vitalish"]
   s.email       = ["vitalish@4life.com.ua"]
   s.homepage    = "http://github.com/vitalish/rspec-deep-matchers"
-  s.summary     = %q{Deep Hash matcher for rspec}
+  s.summary     = %q{Deep Hash (& some Objects) matcher for rspec}
   s.description = s.summary
 
   s.rubyforge_project = "rspec-deep-matchers"
